@@ -1,0 +1,7 @@
+1.Open "Client Patcher & Launcher/LoLPatcherProxy.exe" as admin
+2.Choose 0.0.1.68 -> gameclient and 0.0.1.119 -> airclient
+3.Open "Client Patcher & Launcher/lol.launcher.exe"
+4.Let the Client patch
+5.Open "Server Files - Intwars/startserver.bat"
+6.Open "Server Files - Intwars/StartGame.bat"
+7.Enjoy your Sandbox!!

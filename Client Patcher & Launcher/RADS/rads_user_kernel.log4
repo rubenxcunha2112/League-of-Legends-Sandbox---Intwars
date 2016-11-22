@@ -1,0 +1,25 @@
+(   USER)[03:29:57.266] RADS::UserKernel::Application::Run: Riot Application Distribution System (c) 2010 Riot Games (version 1.0.0.228)
+(   USER)[03:29:57.266] RADS::UserKernel::Application::Run: Running at 03:29:57 on 11/22/2016
+(  DEBUG)[03:29:57.266] RADS::UserKernel::Application::Run: Command line: "updateandrun lol_launcher LoLLauncher.exe"
+(  DEBUG)[03:29:57.267] RADS::UserKernel::Application::SelfUpdate: Executed from root folder with correct name, not an update.
+(  DEBUG)[03:29:57.267] RADS::Common::HTTPConnection::HTTPConnection: (http://127.0.0.1:80)
+(  DEBUG)[03:29:57.267] RADS::Common::HTTPConnection::Connect: (http://127.0.0.1:80)
+(  DEBUG)[03:29:57.267] RADS::Common::HTTPConnection::GetFile: ("/releases/live/system/rads_user_kernel.exe.version", "C:/Users/PCmyzpc/Desktop/League of Legends Sandbox - Intwars/Client Patcher & Launcher/RADS/temp\TMP2E5A.tmp", RETRY, 0x00000000)
+(WARNING)[03:29:57.269] RADS::Common::CiderUser32::CiderUser32: Failed to load TGIsFullscreen, CiderUser32 not running 
+(WARNING)[03:29:57.269] RADS::Common::CiderUser32::Create: Failed to startup CiderUser32, not on a Mac
+(  ERROR)[03:29:57.277] RADS::Common::HTTPConnection::DoesFileExistFromLastHeader: HTTP Query returned status 0
+(  DEBUG)[03:29:57.277] RADS::Common::HTTPConnection::GetFile: File not found
+(  ERROR)[03:29:57.277] RADS::Common::HTTPConnection::GetFile: Retrying after failed attempt 1
+(  ERROR)[03:29:57.286] RADS::Common::HTTPConnection::DoesFileExistFromLastHeader: HTTP Query returned status 0
+(  DEBUG)[03:29:57.286] RADS::Common::HTTPConnection::GetFile: File not found
+(  ERROR)[03:29:57.287] RADS::Common::HTTPConnection::GetFile: Retrying after failed attempt 2
+(  ERROR)[03:29:57.289] RADS::Common::HTTPConnection::DoesFileExistFromLastHeader: HTTP Query returned status 0
+(  DEBUG)[03:29:57.289] RADS::Common::HTTPConnection::GetFile: File not found
+(  ERROR)[03:29:57.290] RADS::Common::HTTPConnection::GetFile: Failed on /releases/live/system/rads_user_kernel.exe.version
+(  ERROR)[03:29:57.290] RADS::UserKernel::Application::SelfUpdate: Failed to download version information.
+(  DEBUG)[03:29:57.290] RADS::Common::HTTPConnection::Disconnect: ()
+(  ERROR)[03:29:57.290] RADS::UserKernel::Application::Run: SelfUpdate failed.
+(  DEBUG)[03:29:57.297] RADS::User::ManagedFileHelper::Release: 
+(  DEBUG)[03:29:57.297] RADS::UserKernel::Application::Run: Returning 0xc1e90004
+(  DEBUG)[03:29:57.297] RADS::Common::ErrorMessageMap::ErrorMessageMap: locale: en_gb
+(   USER)[03:29:57.297] WinMain: Could not connect to the HTTP server.  Please check that your Internet connection is enabled and that your firewall is not blocking access.
